@@ -1,12 +1,7 @@
 -  olá,eu sou @Aleeh18
 - estou terminando meu estudos,falta só esse ano de 2024. 🤍
 - aprendendo alura,tecnologia robotica. 🤍
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Aleeh18/Aleeh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- alejandrosouza5555@gmail.com
+- quero ter mais conhecimentos.
+Aleeh18
 --->
